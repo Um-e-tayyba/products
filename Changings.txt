@@ -1,0 +1,4 @@
+Module Changing:
+
+1. Make the frontend and integrate previous module
+2. Add images of products,categories,manufactureres,suppliers and brands
